@@ -1,0 +1,21 @@
+{
+  "name": "prime-t1-assessment",
+  "version": "1.0.0",
+  "description": "Prime T1 Week6 Code Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Prime Digital Academy",
+  "license": "ISC"
+}
